@@ -1,2 +1,2 @@
 # Visualize
-Was developed as a part of min project.
+Was developed as a part of mini project.
